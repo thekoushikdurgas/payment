@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "369726717074",
+    "project_id": "chatdeloitte-e477e",
+    "storage_bucket": "chatdeloitte-e477e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:369726717074:android:dc47394379511fb6783a4b",
+        "android_client_info": {
+          "package_name": "com.example.paymentanalysis"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASpV58V2-qeqKoILloovryxCoV8Z3QcNQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
